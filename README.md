@@ -2,9 +2,6 @@
 
 Este é um projeto de desenvolvimento de um layout para uma clínica médica. O design foi realizado no Figma, incluindo conceitos de design, gestalt e psicologia das cores. O protótipo de alta fidelidade foi criado no Figma.
 
-## Figma
-
-O link para o protótipo no Figma está disponível [aqui](coloque-o-link-do-protótipo).
 
 ## Estrutura do Projeto
 
