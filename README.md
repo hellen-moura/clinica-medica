@@ -11,7 +11,7 @@ Este é um projeto de desenvolvimento de um layout para uma clínica médica. O 
 assets/
 css/
 style.css
-images/
+images//
 index.html
 README.md
 
