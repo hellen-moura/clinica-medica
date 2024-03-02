@@ -5,7 +5,6 @@ Este é um projeto de desenvolvimento de um layout para uma clínica médica. O 
 ![img1](https://github.com/hellen-moura/clinica-medica/assets/127620071/a5b49992-7f82-4eae-a2d5-302149f691ee)
 
 
-
 ## Estrutura do Projeto
 
 assets/
